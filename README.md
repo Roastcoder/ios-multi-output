@@ -53,7 +53,7 @@ Run the tests:
 xcodebuild test -project MultiOutput.xcodeproj -scheme MultiOutput -destination 'platform=iOS Simulator,name=iPhone 17'
 ```
 
-An unsigned IPA is attached to each [release](https://github.com/Roastcoder/ios-multi-output/releases). iPhones won't install it until it's signed, so see [installing from an IPA](docs/06-build-and-deploy.md#installing-from-an-ipa).
+**[Install page](https://roastcoder.github.io/ios-multi-output/)** has the download, the steps and an output checker. An unsigned IPA is attached to each [release](https://github.com/Roastcoder/ios-multi-output/releases). iPhones won't install it until it's signed, so see [installing from an IPA](docs/06-build-and-deploy.md#installing-from-an-ipa).
 
 ## Documentation
 
